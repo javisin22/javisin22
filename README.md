@@ -1,3 +1,9 @@
+# 🤓 About me: 
+Computer Science student at the University of Zaragoza.
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : www.linkedin.com/in/javier-sin-pelayo-490565298 
+
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

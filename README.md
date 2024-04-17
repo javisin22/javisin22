@@ -1,7 +1,7 @@
 # 🤓 About me: 
 Computer Science student at the University of Zaragoza.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sin-pelayo-490565298 ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sin-pelayo) 
 
 
 

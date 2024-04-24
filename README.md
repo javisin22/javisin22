@@ -1,5 +1,6 @@
 # 🤓 About me: 
-Computer Science student at the University of Zaragoza.
+📚 Computer Science student at the University of Zaragoza. <br>
+🌎 Check my organizations projects!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sin-pelayo)
 [![Gmail](https://img.shields.io/badge/Gmail-%2354405F.svg?logo=Gmail&logoColor=red)](mailto:javiersinpelayo@gmail.com)

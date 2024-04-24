@@ -1,8 +1,8 @@
 # 🤓 About me: 
 Computer Science student at the University of Zaragoza.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sin-pelayo) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sin-pelayo)
+[![Gmail](https://img.shields.io/badge/Gmail-%2354405F.svg?logo=Gmail&logoColor=red)](mailto:javiersinpelayo@gmail.com)
 
 
 # 💻 Tech Stack:
@@ -42,3 +42,5 @@ Computer Science student at the University of Zaragoza.
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=javisin22&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
+##
+[![](https://visitcount.itsvg.in/api?id=javisin22&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)

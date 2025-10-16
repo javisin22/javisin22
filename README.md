@@ -1,5 +1,5 @@
 # 🤓 About me: 
-📚 Computer Science student at the University of Zaragoza, Spain. Last year at the University of Rhode Island, USA.<br>
+📚 Computer Scientist from the University of Zaragoza, Spain. Last year studied at the University of Rhode Island, USA.<br>
 🌎 Check my organizations projects!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sin-pelayo)
